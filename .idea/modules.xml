@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DJGOTOKKI_Android_Client.iml" filepath="$PROJECT_DIR$/DJGOTOKKI_Android_Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/djgotokki-android-client.iml" filepath="$PROJECT_DIR$/djgotokki-android-client.iml" />
     </modules>
   </component>
 </project>
